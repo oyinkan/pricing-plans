@@ -1,5 +1,10 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# Pricing Plans
+This is a react app that shows the different pricing plans available to users.
+
+I used mocky.io to mock the data. <br />The link to the data is [http://www.mocky.io/v2/5eaef3c433000041329f428f]
+
 ## Available Scripts
 
 In the project directory, you can run:
@@ -66,4 +71,4 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
-# Pricing Plans
+
