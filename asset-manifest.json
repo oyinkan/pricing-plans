@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/pricing-plans/static/css/main.fa6360c4.chunk.css",
-    "main.js": "/pricing-plans/static/js/main.74afde83.chunk.js",
-    "main.js.map": "/pricing-plans/static/js/main.74afde83.chunk.js.map",
+    "main.js": "/pricing-plans/static/js/main.46ea2b4d.chunk.js",
+    "main.js.map": "/pricing-plans/static/js/main.46ea2b4d.chunk.js.map",
     "runtime-main.js": "/pricing-plans/static/js/runtime-main.6e973b91.js",
     "runtime-main.js.map": "/pricing-plans/static/js/runtime-main.6e973b91.js.map",
     "static/js/2.4e4711e1.chunk.js": "/pricing-plans/static/js/2.4e4711e1.chunk.js",
     "static/js/2.4e4711e1.chunk.js.map": "/pricing-plans/static/js/2.4e4711e1.chunk.js.map",
     "index.html": "/pricing-plans/index.html",
-    "precache-manifest.1e27a7a22a2f369ce8981f374a38f9dc.js": "/pricing-plans/precache-manifest.1e27a7a22a2f369ce8981f374a38f9dc.js",
+    "precache-manifest.abbea569030edf033b4c4f2591f096d7.js": "/pricing-plans/precache-manifest.abbea569030edf033b4c4f2591f096d7.js",
     "service-worker.js": "/pricing-plans/service-worker.js",
     "static/css/main.fa6360c4.chunk.css.map": "/pricing-plans/static/css/main.fa6360c4.chunk.css.map",
     "static/js/2.4e4711e1.chunk.js.LICENSE.txt": "/pricing-plans/static/js/2.4e4711e1.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.6e973b91.js",
     "static/js/2.4e4711e1.chunk.js",
     "static/css/main.fa6360c4.chunk.css",
-    "static/js/main.74afde83.chunk.js"
+    "static/js/main.46ea2b4d.chunk.js"
   ]
 }
